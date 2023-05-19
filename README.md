@@ -6,13 +6,6 @@
 <hr>
 
 ![Python](https://img.shields.io/badge/-Python-ececec?style=for-the-badge&logo=python&logoColor=2c3e50)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=FastAPI&logoColor=fff)
-
-<p align="center"> 
-    <samp>Start app</samp>
-</p>
-
-1.1 docker-compose up --build complexity_app
 
 <p align="center"> 
     <samp>Complexity of algorithms</samp>
