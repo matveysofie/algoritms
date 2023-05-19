@@ -1,4 +1,4 @@
-![Header](https://github.com/matveysofie/algoritms/blob/main/assets/header.jpg)
+![Header](https://github.com/matveysofie/algoritms/blob/main/assets/python.jpg)
 
 <p align="center"> 
     <samp>🧾 Complexity of algorithms. Sorting</samp>
